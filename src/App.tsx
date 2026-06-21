@@ -11,6 +11,7 @@ import PageOpening from "./components/PageOpening"
 import AmbientGlow from "./components/AmbientGlow"
 import { useMotionSystem } from "./hooks/useMotionSystem"
 import { useHeroParallax } from "./hooks/useHeroParallax"
+import { Analytics } from "@vercel/analytics/react"
 
 const navItems = [
   { label: "Today", href: "#today" },
@@ -176,6 +177,7 @@ function App() {
       <PhotoGallery />
       <AnonymousNotes />
       <Footer />
+      <Analytics />
     </main>
   )
 }
