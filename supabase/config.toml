@@ -1,0 +1,8 @@
+[functions.spotify-auth]
+verify_jwt = false
+
+[functions.spotify-callback]
+verify_jwt = false
+
+[functions.spotify-now]
+verify_jwt = false
