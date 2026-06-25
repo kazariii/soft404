@@ -106,6 +106,14 @@ export const films: Film[] = [
     note: "A love that crosses time, carrying one quiet wish: that the person we cherish gets to stay.",
     image: "/films/film-6.jpg",
   },
+  {
+    title: "Even If This Love Disappears from the World Tonight",
+    year: "2022",
+    rating: "★★★★★",
+    mood: "memories of love",
+    note: "A fragile promise about loving someone through memory, loss, and all the mornings that still arrive.",
+    image: "/films/film-7.jpg",
+  },
 ]
 
 export const books: Book[] = [
