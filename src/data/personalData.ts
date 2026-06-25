@@ -179,7 +179,7 @@ export const spotifyPlaylists: SpotifyPlaylist[] = [
     title: "songs i wish i could send",
     mood: "for the tender-hearted",
     description: "For late nights, unfinished goodbyes, and feelings that only make sense when someone else sings them.",
-    embedUrl: "https://open.spotify.com/embed/playlist/4DjBU6824iQ2slTX48n9Q7?theme=0",
+    embedUrl: "https://open.spotify.com/embed/playlist/65qBXjMJ3xEgdOiRhGBkGO?theme=0",
   },
 ]
 
